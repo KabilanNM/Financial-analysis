@@ -1,4 +1,4 @@
-# 📊 Financial Statement Analysis – CAMS Ltd
+#  Financial Statement Analysis – CAMS Ltd
 
 This project presents a detailed financial statement analysis of **Computer Age Management Services Ltd (CAMS)**. The analysis focuses on understanding the company’s financial health, performance trends, and key ratios based on publicly available data.
 
