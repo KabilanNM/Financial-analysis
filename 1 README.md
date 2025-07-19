@@ -14,6 +14,7 @@ This project presents a detailed financial statement analysis of **Computer Age 
 - Analyze CAMS’s **Balance Sheet**, **Income Statement**, and **Cash Flow Statement**
 - Calculate and interpret key **financial ratios** such as:
   - Return on Equity (ROE)
+  - Return on capital employed (ROCE)
   - Current Ratio
   - Debt-to-Equity Ratio
   - Net Profit Margin, etc.
@@ -27,11 +28,6 @@ This project presents a detailed financial statement analysis of **Computer Age 
 - Using Screener.in for extracting and comparing company data
 - Presenting financial insights clearly using Excel & PowerPoint
 
-##  Files Included
-
-- [`cams-financial-analysis.pdf`](./cams-financial-analysis.pdf) – Final Presentation (recommended)
-- [`cams-financial-analysis.pptx`](./cams-financial-analysis.pptx) – Original PPT file (editable)
-
 ##  About CAMS Ltd
 
 CAMS is India’s leading registrar and transfer agent of mutual funds, providing services to investors, asset management companies, and other financial intermediaries.
@@ -41,5 +37,3 @@ CAMS is India’s leading registrar and transfer agent of mutual funds, providin
 This project was created out of personal interest in equity research and financial analysis. It is not affiliated with CAMS Ltd or any academic institution.
 
 ---
-
- **Feel free to connect or reach out via [LinkedIn](https://www.linkedin.com)** if you'd like to discuss this analysis or other finance-related projects!
